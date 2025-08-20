@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gerador de Senhas</title>
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <div class="wrapper">
+    <h1>Gerador de Senhas</h1>
+
+    <div class="random-password">
+      <p>Password: <span title="Clique para copiar" id="pass" class="password" data-js="password"></span></p>
+      <button>Gerador de Senhas</button>
+
+      <input type="range" id="range" value="8" min="8" max="50" />
+      <p>Comprimento da Senha: <small data-js="password-length" class="password-length">8</small></p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
