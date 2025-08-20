@@ -1,0 +1,85 @@
+Gerador de Senhas
+
+
+
+Um projeto simples e intuitivo para gerar senhas seguras e personalizáveis, desenvolvido com HTML, CSS e JavaScript.
+
+
+
+💻 Demonstração
+
+
+
+https://github.com/Danfas19402
+
+
+
+Nota: Substitua o link acima pelo endereço da sua página no GitHub Pages ou em outra plataforma de hospedagem.
+
+
+
+✨ Recursos
+
+
+
+
+
+
+
+Geração de Senhas Seguras: Crie senhas complexas e aleatórias para proteger suas contas online.
+
+
+
+Opções de Personalização: Defina o tamanho da senha e os tipos de caracteres que serão incluídos (letras maiúsculas e minúsculas, números, símbolos).
+
+
+
+Cópia Rápida: Um botão para copiar a senha gerada para a área de transferência com apenas um clique.
+
+
+
+Interface Simples e Intuitiva: Um design limpo e fácil de usar.
+
+
+
+Tecnologias: Desenvolvido com HTML, CSS e JavaScript puros.
+
+
+
+🚀 Como Usar
+
+
+
+
+
+
+
+Ajuste o controle deslizante para definir o comprimento da senha.
+
+
+
+Marque as caixas de seleção para incluir os tipos de caracteres desejados.
+
+
+
+Clique no botão "Gerar Senha".
+
+
+
+A senha gerada aparecerá na tela.
+
+
+
+Clique no ícone de cópia para salvar a senha na sua área de transferência.
+
+
+
+
+
+
+
+📝 Licença
+
+
+
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
